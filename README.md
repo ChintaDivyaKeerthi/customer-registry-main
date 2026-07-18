@@ -1,6 +1,6 @@
-# CareSync - Customer Care Registry Portal
+ Customer Care Registry Portal
 
-CareSync is a centralized Customer Care Registry system designed as a full-stack MERN application. It records and manages customer interactions, inquiries, feedback, and requests. The system features multi-role authorization, a live communication registry, customizable field definitions, and deep admin analytics dashboards.
+It is a centralized Customer Care Registry system designed as a full-stack MERN application. It records and manages customer interactions, inquiries, feedback, and requests. The system features multi-role authorization, a live communication registry, customizable field definitions, and deep admin analytics dashboards.
 
 ---
 
