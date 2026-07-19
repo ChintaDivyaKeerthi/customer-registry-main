@@ -67,6 +67,8 @@ Seed the database with default accounts (admin, agents, customer) and sample tic
     npm run dev
     ```
 3.  The frontend client will open on: `http://localhost:5173`
+THE VIDEO OF MY PROJECT LIVE WORKING IS SHARED THROUGH THE BELOW DRIVE LINK
+https://drive.google.com/file/d/1v-i1vbWVRrlPDpolPa9HaC8kRP4Apnv_/view?usp=sharing
 
 
 
